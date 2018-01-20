@@ -3,7 +3,7 @@ operator [*|+|-|/|<|>|=]
 
 %%
 {number} {printf("number\n");}
-{operator} {printf("%operator\n");}
+{operator} {printf("operator\n");}
 	
 %%
 
